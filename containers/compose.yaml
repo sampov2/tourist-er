@@ -1,0 +1,14 @@
+# This is an attempt to generate the walkability map by hosting an extract of OSM as a WMS server using
+# Geoserver and PostGIS
+# 
+# https://wiki.openstreetmap.org/wiki/WMS
+
+services:
+  geoserver:
+    build: geoserver/
+    ports:
+      - "8080"
+  postgis:
+    build: postgis/
+    expose:
+      - "5432"
