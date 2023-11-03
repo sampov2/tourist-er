@@ -7,8 +7,28 @@ services:
   geoserver:
     build: geoserver/
     ports:
-      - "8080"
+      - "8080:8080"
+
+    environment:
+      - GEOSERVER_ADMIN_PASSWORD_FILE=/run/secrets/GEOSERVER_ADMIN_PASSWORD
+
+    secrets:
+      - GEOSERVER_ADMIN_PASSWORD
+      - POSTGRES_PASS
+
   postgis:
     build: postgis/
     expose:
       - "5432"
+    
+    environment:
+      - POSTGRES_PASS_FILE=/run/secrets/POSTGRES_PASS
+    
+    secrets:
+      - POSTGRES_PASS
+
+secrets:
+  GEOSERVER_ADMIN_PASSWORD:
+    file: geoserver_admin_password.txt
+  POSTGRES_PASS:
+    file: postgres_user_password.txt
