@@ -1,4 +1,3 @@
 *.pbf
 **/*.pbf
-containers/geoserver_admin_password.txt
-containers/postgres_user_password.txt
+containers/secrets/*
