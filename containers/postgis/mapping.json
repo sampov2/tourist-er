@@ -27,7 +27,7 @@
         },
         "roads_walkable": {
             "source": "roads",
-            "sql_filter": "type IN ('footway', 'living_street', 'service', 'track', 'corridor', 'path', 'sidewalk') and tunnel = 0"
+            "sql_filter": "type IN ('footway', 'pedestrian', 'living_street', 'service', 'track', 'corridor', 'path', 'sidewalk') and tunnel = 0"
         },
         "roads_nonoptimal": {
             "source": "roads",
@@ -35,11 +35,11 @@
         },
         "roads_avoid": {
             "source": "roads",
-            "sql_filter": "type IN ('bus_guideway', 'escape','busway','road', 'cycleway') and tunnel = 0"
+            "sql_filter": "type IN ('residential', 'primary', 'secondary', 'tertiary', 'bus_guideway', 'escape','busway','road', 'cycleway') and tunnel = 0"
         },
         "roads_block": {
             "source": "roads",
-            "sql_filter": "type IN ('raceway') and tunnel = 0"
+            "sql_filter": "type IN ('motorway', 'trunk', 'raceway') and tunnel = 0"
         }
 
     },
