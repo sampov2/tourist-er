@@ -15,16 +15,17 @@
     "generalized_tables": {
         "landusages_walkable": {
             "source": "landusages",
-            "sql_filter": "type IN ('park', 'grass', 'pitch','zoo', 'residential', 'commercial', 'industrial', 'nature_reserve')"
+            "sql_filter": "type IN ('pitch', 'meadow', 'nature_reserve')"
         },
         "landusages_nonoptimal": {
             "source": "landusages",
-            "sql_filter": "type IN ('cemetery', 'playground', 'brownfield', 'gravel', 'shingle', 'sports_centre', 'woord', 'forest', 'meadow')"
+            "sql_filter": "type IN ('park', 'grass', 'residential', 'commercial', 'gravel', 'shingle', 'sports_centre')"
         },
         "landusages_avoid": {
             "source": "landusages",
-            "sql_filter": "type IN ('scrub')"
+            "sql_filter": "type IN ('scrub', 'zoo', 'playground', 'cemetery', 'wood', 'industrial', 'brownfield', 'forest')"
         },
+
         "roads_walkable": {
             "source": "roads",
             "sql_filter": "type IN ('footway', 'pedestrian', 'living_street', 'service', 'track', 'corridor', 'path', 'sidewalk') and tunnel = 0"

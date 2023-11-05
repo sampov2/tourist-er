@@ -13,13 +13,13 @@
           <Title>Walkable, non-optimal</Title>
           <PolygonSymbolizer>
             <Fill>
-              <CssParameter name="fill">#ddff00
+              <CssParameter name="fill">#99ff00
               </CssParameter>
             </Fill>
           </PolygonSymbolizer>
           <LineSymbolizer>
             <Stroke>
-              <CssParameter name="stroke">#ddff00</CssParameter>
+              <CssParameter name="stroke">#99ff00</CssParameter>
             </Stroke>
           </LineSymbolizer>
         </Rule>

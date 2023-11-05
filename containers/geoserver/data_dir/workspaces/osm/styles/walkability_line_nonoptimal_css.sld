@@ -7,7 +7,7 @@
         <sld:Rule>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke">#ddff00</sld:CssParameter>
+              <sld:CssParameter name="stroke">#99ff00</sld:CssParameter>
               <sld:CssParameter name="stroke-width">2m</sld:CssParameter>
             </sld:Stroke>
           </sld:LineSymbolizer>

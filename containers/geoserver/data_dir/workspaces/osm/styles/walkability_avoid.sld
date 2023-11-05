@@ -13,13 +13,13 @@
           <Title>Walkable, avoid</Title>
           <PolygonSymbolizer>
             <Fill>
-              <CssParameter name="fill">#ffdd00
+              <CssParameter name="fill">#ff9900
               </CssParameter>
             </Fill>
           </PolygonSymbolizer>
           <LineSymbolizer>
             <Stroke>
-              <CssParameter name="stroke">#ffdd00</CssParameter>
+              <CssParameter name="stroke">#ff9900</CssParameter>
             </Stroke>
           </LineSymbolizer>
         </Rule>

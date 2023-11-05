@@ -1,6 +1,8 @@
 *.pbf
 **/*.pbf
 containers/secrets/*
+containers/geoserver/data_dir/**/*.bak
+containers/geoserver/data_dir/**/*.lck
 containers/geoserver/data_dir/logs/
 containers/geoserver/data_dir/tomcat_pass.txt
 containers/geoserver/data_dir/monitoring/monitor_*

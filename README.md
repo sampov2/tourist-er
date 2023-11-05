@@ -12,10 +12,7 @@ Barriers!
 
 ## Walkability score per grid cell
 
-If there is a barrier => 0
-
-If 
-
+See: `https://en.wikipedia.org/wiki/Cost_distance_analysis`
 
 ## TODO:
 
@@ -34,5 +31,5 @@ To rebuild only the database, run:
 ## How to retrieve geoserver configuration
 
 ```shell
-docker exec CONTAINER tar Ccf $(dirname /opt/geoserver/data_dir) - $(basename /opt/geoserver/data_dir) | tar Cxf containers/geoserver/data -
+docker exec CONTAINER tar Ccf $(dirname /opt/geoserver/data_dir) - $(basename /opt/geoserver/data_dir) | tar Cxf containers/geoserver/ -
 ```
