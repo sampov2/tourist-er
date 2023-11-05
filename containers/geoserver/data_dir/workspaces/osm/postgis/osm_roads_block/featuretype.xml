@@ -1,0 +1,44 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--4b70a925:18b9ab71716:-2031</id>
+  <name>osm_roads_block</name>
+  <nativeName>osm_roads_block</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-38c1911f:18b99a7df80:-7ff5</id>
+  </namespace>
+  <title>osm_roads_block</title>
+  <keywords>
+    <string>features</string>
+    <string>osm_roads_block</string>
+  </keywords>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>2765648.0</minx>
+    <maxx>2779270.25</maxx>
+    <miny>8434030.0</miny>
+    <maxy>8442009.0</maxy>
+    <crs class="projected">EPSG:3857</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>24.84423868894586</minx>
+    <maxx>24.966609442736836</maxx>
+    <miny>60.1536674184076</miny>
+    <maxy>60.189319747719196</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-38c1911f:18b99a7df80:-7ff4</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

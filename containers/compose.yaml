@@ -11,6 +11,7 @@ services:
 
     environment:
       - GEOSERVER_ADMIN_PASSWORD_FILE=/run/secrets/GEOSERVER_ADMIN_PASSWORD
+      - STABLE_EXTENSIONS=css-plugin
 
     secrets:
       - GEOSERVER_ADMIN_PASSWORD

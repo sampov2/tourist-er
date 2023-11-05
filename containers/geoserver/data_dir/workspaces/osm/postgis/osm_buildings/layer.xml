@@ -1,0 +1,17 @@
+<layer>
+  <name>osm_buildings</name>
+  <id>LayerInfoImpl--4b70a925:18b99bfaaa3:-7ff6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-38c1911f:18b99a7df80:-7ffc</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--4b70a925:18b99bfaaa3:-7ff7</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-11-04 10:07:31.671 UTC</dateCreated>
+  <dateModified>2023-11-04 13:14:43.573 UTC</dateModified>
+</layer>

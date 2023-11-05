@@ -1,0 +1,16 @@
+<layer>
+  <name>osm_landusages_avoid</name>
+  <id>LayerInfoImpl--4b70a925:18b99bfaaa3:-7a40</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-38c1911f:18b99a7df80:-7ffc</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--4b70a925:18b99bfaaa3:-7a41</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-11-04 13:37:13.953 UTC</dateCreated>
+</layer>

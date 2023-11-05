@@ -1,0 +1,44 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--4b70a925:18b99bfaaa3:-7a63</id>
+  <name>osm_landusages</name>
+  <nativeName>osm_landusages</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-38c1911f:18b99a7df80:-7ff5</id>
+  </namespace>
+  <title>osm_landusages</title>
+  <keywords>
+    <string>features</string>
+    <string>osm_landusages</string>
+  </keywords>
+  <srs>EPSG:3857</srs>
+  <nativeBoundingBox>
+    <minx>2758247.75</minx>
+    <maxx>2802152.25</maxx>
+    <miny>8427962.0</miny>
+    <maxy>8461967.0</maxy>
+    <crs class="projected">EPSG:3857</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>24.777761112132808</minx>
+    <maxx>25.172161946049062</maxx>
+    <miny>60.126528044451256</miny>
+    <maxy>60.27832818117289</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-38c1911f:18b99a7df80:-7ff4</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

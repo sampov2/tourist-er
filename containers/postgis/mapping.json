@@ -19,7 +19,7 @@
         },
         "landusages_nonoptimal": {
             "source": "landusages",
-            "sql_filter": "type IN ('cemetery', 'playground', 'sports_centre', 'woord', 'forest', 'meadow')"
+            "sql_filter": "type IN ('cemetery', 'playground', 'brownfield', 'gravel', 'shingle', 'sports_centre', 'woord', 'forest', 'meadow')"
         },
         "landusages_avoid": {
             "source": "landusages",
@@ -162,7 +162,9 @@
                     "land",
                     "scrub",
                     "wetland",
-                    "heath"
+                    "heath",
+                    "scree",
+                    "shingle"
                 ],
                 "man_made": [
                     "pier"
@@ -197,7 +199,10 @@
                     "village_green",
                     "recreation_ground",
                     "allotments",
-                    "quarry"
+                    "quarry",
+                    "brownfield",
+                    "gravel",
+                    "shingle"
                 ],
                 "highway": [
                     "pedestrian",

@@ -1,0 +1,16 @@
+<layer>
+  <name>osm_roads_gen1</name>
+  <id>LayerInfoImpl--4b70a925:18b99bfaaa3:-7ff2</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-38c1911f:18b99a7df80:-7ffc</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--4b70a925:18b99bfaaa3:-7ff3</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-11-04 10:32:08.300 UTC</dateCreated>
+</layer>

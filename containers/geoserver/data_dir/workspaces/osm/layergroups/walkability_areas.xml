@@ -1,0 +1,54 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--4b70a925:18b99bfaaa3:-7a49</id>
+  <name>walkability_areas</name>
+  <mode>SINGLE</mode>
+  <title>Walkability areas</title>
+  <workspace>
+    <id>WorkspaceInfoImpl-38c1911f:18b99a7df80:-7ff6</id>
+  </workspace>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--4b70a925:18b99bfaaa3:-7a46</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4b70a925:18b99bfaaa3:-7a42</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4b70a925:18b99bfaaa3:-7a40</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4b70a925:18b99bfaaa3:-7ff6</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4b70a925:18b99bfaaa3:-7ff8</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--4b70a925:18b99bfaaa3:-7a45</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4b70a925:18b99bfaaa3:-7a44</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4b70a925:18b99bfaaa3:-7a3f</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4b70a925:18b99bfaaa3:-7a48</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4b70a925:18b9a99a2ac:-7379</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>2758247.75</minx>
+    <maxx>2802152.25</maxx>
+    <miny>8428042.999999996</miny>
+    <maxy>8461944.999999998</maxy>
+    <crs class="projected">EPSG:3857</crs>
+  </bounds>
+  <dateCreated>2023-11-04 13:27:42.365 UTC</dateCreated>
+  <dateModified>2023-11-04 15:40:50.267 UTC</dateModified>
+</layerGroup>

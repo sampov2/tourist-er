@@ -1,0 +1,48 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--4b70a925:18b9ab71716:-2028</id>
+  <name>walkability_lines</name>
+  <mode>SINGLE</mode>
+  <title>Walkability lines</title>
+  <workspace>
+    <id>WorkspaceInfoImpl-38c1911f:18b99a7df80:-7ff6</id>
+  </workspace>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--4b70a925:18b9ab71716:-2030</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4b70a925:18b9ab71716:-202e</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4b70a925:18b9ab71716:-202c</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--4b70a925:18b9ab71716:-202a</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--42b92967:18b9b0cb004:-6bd1</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--42b92967:18b9b0cb004:-6bd2</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--42b92967:18b9b0cb004:-6bd3</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--42b92967:18b9b09d873:-7ffc</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>2759090.0</minx>
+    <maxx>2800515.0</maxx>
+    <miny>8428337.000000002</miny>
+    <maxy>8457784.000000002</maxy>
+    <crs class="projected">EPSG:3857</crs>
+  </bounds>
+  <dateCreated>2023-11-04 14:37:37.303 UTC</dateCreated>
+  <dateModified>2023-11-04 16:00:33.933 UTC</dateModified>
+</layerGroup>

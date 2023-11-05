@@ -1,0 +1,16 @@
+<layer>
+  <name>osm_landusages_walkable</name>
+  <id>LayerInfoImpl--4b70a925:18b99bfaaa3:-7a46</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-38c1911f:18b99a7df80:-7ffc</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--4b70a925:18b99bfaaa3:-7a47</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-11-04 13:32:53.887 UTC</dateCreated>
+</layer>

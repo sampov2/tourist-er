@@ -1,0 +1,17 @@
+<layer>
+  <name>osm_waterareas</name>
+  <id>LayerInfoImpl--4b70a925:18b99bfaaa3:-7ffa</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-38c1911f:18b99a7df80:-7ffc</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--4b70a925:18b99bfaaa3:-7ffb</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-11-04 10:00:58.128 UTC</dateCreated>
+  <dateModified>2023-11-04 10:51:07.371 UTC</dateModified>
+</layer>
